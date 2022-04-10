@@ -63,7 +63,7 @@ export default function Navbar_s(props) {
                 type="checkbox"
                 role="switch"
                 id="flexSwitchCheckDefault"
-              />
+              />DarkMode
               <img src="/Images/darkmode.png " alt="" width="18" height="18" />
               <label
                 className="form-check-label"
