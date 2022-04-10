@@ -88,7 +88,7 @@ export default function TextForm(props) {
           type="button"
           className="btn2 btn-danger mx-2"
           onClick={handleUpClick3}
-        >
+        >Clear All
           <img src="/Images/reset.png " alt="" width="25" height="22" />
         </button>
         
